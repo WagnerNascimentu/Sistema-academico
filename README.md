@@ -4,7 +4,7 @@
 
 > Status: Em Desenvolvimento ⚠️
 
-### Sobre o Projeto: O sistema academico é uma aplicação em C# e HTML desenvolvida por Wagner Tenorio e bruno gabriel,onde realizamos a aplicação do codigo para rodar um projeto de academia!
+### Sobre o Projeto: O sistema academico é uma aplicação em C# desenvolvida por Wagner Tenorio e bruno gabriel,onde realizamos a aplicação do codigo para rodar um projeto de academia!
 
 ## Escopo do Projeto:
 1) Cadastro de Membros
@@ -23,11 +23,9 @@
 <table>
   <tr>
    <td>C#</td>
-   <td>HTML</td>
   </tr>
   <tr>
   <td>8.*</td>
-  <td>4.0*</td>
   </tr>
 </table>
 
