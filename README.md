@@ -1,8 +1,16 @@
 ### Sistema-academico 🏋
+![Calisthenics L-Bar Pull-up Gift for Men by sbag-designs](https://github.com/ZarXXX/Sistema-academico/assets/107221721/bc656177-4004-4484-9166-e36a88e32c71)
+
 
 > Status: Em Desenvolvimento ⚠️
 
-### O sistema academico é uma aplicação em C# e HTML desenvolvida por Wagner Tenorio e bruno gabriel,onde realizamos a aplicação do codigo para rodar um projeto de academia!
+### Sobre o Projeto: O sistema academico é uma aplicação em C# e HTML desenvolvida por Wagner Tenorio e bruno gabriel,onde realizamos a aplicação do codigo para rodar um projeto de academia!
+
+## Escopo do Projeto:
+1) Cadastro de Membros
+2) Ver Treinos
+3) Ver Produtos
+4) Pagamento de Mensalidade
 
 ## Requisitos mínimos para rodar a aplicação:
 
@@ -28,6 +36,7 @@
 2) Baixe e instale o Runtime do WebView2 (ou superior)
 3) Baixe e instale o Windows Server Core 2022 (Opcional)
 4) Baixe e instale o Visual Studio Code (2016)
+
 
 
   
