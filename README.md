@@ -1,5 +1,5 @@
 ### Sistema-academico 🏋
-![Calisthenics L-Bar Pull-up Gift for Men by sbag-designs](https://github.com/ZarXXX/Sistema-academico/assets/107221721/bc656177-4004-4484-9166-e36a88e32c71)
+![Renato Cariani, idade, altura, veja a incrível história deste fisiculturista (1)](https://github.com/WagnerNascimentu/Sistema-academico/assets/107221721/b22d6fe9-c4fc-436f-a30b-f5811515a2c7)
 
 
 > Status: Em Desenvolvimento ⚠️
