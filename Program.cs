@@ -21,8 +21,9 @@ do
     Console.WriteLine("2 - Ver treinos");
     Console.WriteLine("3 - ver produtos da academia");
     Console.WriteLine("4 - Serviços");
+    Console.WriteLine("5 - Produtinhos do cariani");
     Console.WriteLine();
-    Console.Write("Sua escolha [1-4] -> ");
+    Console.Write("Sua escolha [1-5] -> ");
 
     menu1 = Int32.Parse(Console.ReadLine());
 
@@ -66,9 +67,11 @@ do
             Console.Clear();
             Console.WriteLine(" digite o nome do produto  que voce quer coomprar");
             Console.WriteLine("----------------------");
-            Console.WriteLine(" creatina Max 300g - 80R$ ");
-            Console.WriteLine(" whey protein 1,5KG - 120R$ ");
-            Console.WriteLine(" hípercalorico Max titanium 3KG - 115R$ ");
+            Console.WriteLine(" creatina Max titanium 300g - R$ 74.99");
+            Console.WriteLine(" whey protein 1,5KG - R$ 119.99");
+            Console.WriteLine(" hípercalorico Max titanium 3KG - R$ 115");
+            Console.WriteLine(" Pré treino DINO 280g - R$ 99.99");
+            Console.WriteLine(" Pré treino Prohibido 150g - R$ 64.99");
             Console.WriteLine(" este sao nossos produtos, digite qualquer tecla para continuar...");
             Console.ReadLine();
             voltarMenu1 = true;
@@ -83,13 +86,19 @@ do
             Console.WriteLine(" Plano mensal sem personal - 55R$");
             Console.WriteLine(" Plano anual com personal - 70R$ / 12x");
             Console.WriteLine(" Plano anual sem personal - 60R$ / 12x");
-            Console.WriteLine(" esses são nossos serviços, digite qualquer tecla para encerrar...");
+            Console.WriteLine(" esses são nossos serviços, digite qualquer tecla para voltar...");
             Console.ReadLine();
-
+            voltarMenu1 = true;
             break;
 
-
-
+            case 5:
+            Console.Clear();
+            Console.WriteLine(" Selo cariani");
+            Console.WriteLine("-----------------");
+            Console.WriteLine(" Termogenico do cariani *Crack* 100g - R$ 50");
+            Console.WriteLine(" Creatina em *Pó* 300g - R$ 380 ");
+            Console.WriteLine(" esses são os produtos, digite qualquer tecla para encerrar...");
+            Console.ReadLine();
             break;
 
 
@@ -104,5 +113,6 @@ do
 
 
 } while (voltarMenu1);
+
 
 
