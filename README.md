@@ -29,6 +29,44 @@
   </tr>
 </table>
 
+## Requisitos Funcionais:
+
+1. Cadastro de Aluno
+Os usuários devem ser capazes de cadastrar um "aluno" inserindo seu nome.
+
+2. Visualizar Treinos:
+Os usuários devem poder visualizar uma programação de treino predefinida para cada dia da semana.
+
+3. Visualizar Produtos da Academia:
+Os usuários devem poder visualizar uma lista de produtos disponíveis na academia, juntamente com seus preços.
+
+4. Visualizar Serviços:
+Os usuários devem poder visualizar uma lista de planos de associação à academia e seus detalhes.
+
+5. Navegação no Menu:
+Após concluir uma ação, os usuários devem poder retornar ao menu principal ou sair do aplicativo.
+
+## Requisitos Não Funcionais:
+
+1. Usabilidade:
+A interface do usuário deve ser clara e fácil de entender.
+Mensagens e prompts de entrada devem ser concisos e amigáveis ao usuário.
+ 
+ 2. Desempenho:
+O aplicativo deve responder prontamente à entrada do usuário.
+Limpeza da tela do console e exibição de informações não devem causar atrasos perceptíveis.
+
+3. Confiabilidade:
+O aplicativo deve lidar com erros na entrada do usuário de maneira eficiente, fornecendo mensagens de erro informativas.
+Não deve ocorrer falha ou entrada em um estado inválido em resposta a entradas inesperadas.
+
+4. Segurança:
+Como se trata de um aplicativo de console, medidas específicas de segurança podem não ser aplicáveis. No entanto, o código deve manipular as entradas do usuário de forma segura para evitar comportamentos indesejados.
+
+5. Utilização de Recursos:
+O aplicativo não deve consumir recursos excessivos do sistema durante sua execução.
+
+
 ## Como Executar a aplicação:
 1) Baixe e instale o .NET Framework 4.5.2 (ou superior)
 2) Baixe e instale o Runtime do WebView2 (ou superior)
