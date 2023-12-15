@@ -6,7 +6,7 @@
 
 ### Sobre o Projeto: O sistema academico é uma aplicação em C# desenvolvida por Wagner Tenorio e Bruno Gabriel,onde realizamos a aplicação do codigo para rodar um projeto de academia!
 
-## Escopo do Projeto:
+## Funcionalidades do Projeto:
 1) Cadastro de Membros
 2) Ver Treinos
 3) Ver Produtos
